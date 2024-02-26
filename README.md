@@ -1,4 +1,4 @@
-### Hi I'm Muhammad Sagor
+### Hi I'm Sagor
 
 - 🖥️ I've been coding in Python primarily for over 3 years
 - 🌱 I’m currently learning Machine Learning Operations(MLOps)
