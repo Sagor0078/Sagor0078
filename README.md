@@ -1,6 +1,6 @@
 ### Hi I'm Sagor
 
-- 🖥️ I've been coding in Python primarily for over 3 years
+- 🖥️ I've been coding in Python primarily for over 4 years
 - 🌱 I’m currently learning Machine Learning Operations(MLOps)
 - 💻 Python Developer hands-on experience
 - 🤖 Specialized in Machine Learning 
