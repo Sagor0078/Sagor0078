@@ -6,6 +6,6 @@
 - 🤖 Specialized in Machine Learning
 - 📊 I have solved 2000+ problems on platforms like LeetCode, Codeforces, AtCoder, UVA, Hackerrank and CodeChef etc.
 - 🌐 Constantly exploring new technologies and tools
-- 📫 You can follow me on X(Twitter) : [X](@Sagor121277)
+- 📫 You can follow me on X(Twitter) : @Sagor121277
 - 📫 You can connect me on LinkedIn : [LinkedIn](https://www.linkedin.com/in/muhammad-sagor-45775b1b5/)
 
