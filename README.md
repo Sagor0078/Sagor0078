@@ -1,6 +1,6 @@
 ### Hi I'm Sagor
 
--🐍 Python / <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="Go" height="16" /> Developer, building robust, scalable systems
+- 🐍 Python/Go Developer, building robust, scalable systems 
 - 🤖 Specialized in Machine Learning | Exploring MLOps & AI Engineering  
 - 💻 Solved 2000+ problems on LeetCode, Codeforces, AtCoder, UVA, etc.  
 - 🌱 Always learning and experimenting with new tech and tools  
